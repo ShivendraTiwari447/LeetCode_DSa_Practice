@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
