@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -41,9 +42,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0560-subarray-sum-equals-k) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
