@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Counting
 |  |
 | ------- |
