@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0152-maximum-product-subarray) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0367-valid-perfect-square) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
@@ -135,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
