@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0367-valid-perfect-square) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
 | ------- |
