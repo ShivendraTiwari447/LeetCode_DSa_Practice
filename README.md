@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
