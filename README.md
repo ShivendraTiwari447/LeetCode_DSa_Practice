@@ -154,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
