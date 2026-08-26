@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0367-valid-perfect-square) |
+| [1903-largest-odd-number-in-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
