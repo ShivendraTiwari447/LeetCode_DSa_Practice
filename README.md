@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Prefix Sum
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0242-valid-anagram) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Counting
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1903-largest-odd-number-in-string) |
