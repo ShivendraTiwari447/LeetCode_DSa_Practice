@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0151-reverse-words-in-a-string) |
