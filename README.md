@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0142-linked-list-cycle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
