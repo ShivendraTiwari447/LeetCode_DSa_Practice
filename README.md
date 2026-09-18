@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
