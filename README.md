@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0242-valid-anagram) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
