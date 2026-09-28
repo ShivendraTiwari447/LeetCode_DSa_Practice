@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1922-count-good-numbers) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0231-power-of-two) |
 ## Tournament Sort
 |  |
 | ------- |
