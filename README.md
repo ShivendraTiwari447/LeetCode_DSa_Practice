@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0191-number-of-1-bits) |
 | [0493-reverse-pairs](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0231-power-of-two) |
 ## Tournament Sort
 |  |
