@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0078-subsets) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
