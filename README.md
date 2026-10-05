@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0260-single-number-iii) |
+| [0435-non-overlapping-intervals](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0455-assign-cookies) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
