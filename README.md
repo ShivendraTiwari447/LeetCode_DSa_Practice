@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -378,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/1004-max-consecutive-ones-iii) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ShivendraTiwari447/LeetCode_DSa_Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
